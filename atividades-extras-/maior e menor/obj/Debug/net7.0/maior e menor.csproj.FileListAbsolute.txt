@@ -1,0 +1,15 @@
+C:\Users\47349403801\Desktop\maior e menor\bin\Debug\net7.0\maior e menor.exe
+C:\Users\47349403801\Desktop\maior e menor\bin\Debug\net7.0\maior e menor.deps.json
+C:\Users\47349403801\Desktop\maior e menor\bin\Debug\net7.0\maior e menor.runtimeconfig.json
+C:\Users\47349403801\Desktop\maior e menor\bin\Debug\net7.0\maior e menor.dll
+C:\Users\47349403801\Desktop\maior e menor\bin\Debug\net7.0\maior e menor.pdb
+C:\Users\47349403801\Desktop\maior e menor\obj\Debug\net7.0\maior e menor.csproj.AssemblyReference.cache
+C:\Users\47349403801\Desktop\maior e menor\obj\Debug\net7.0\maior e menor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47349403801\Desktop\maior e menor\obj\Debug\net7.0\maior e menor.AssemblyInfoInputs.cache
+C:\Users\47349403801\Desktop\maior e menor\obj\Debug\net7.0\maior e menor.AssemblyInfo.cs
+C:\Users\47349403801\Desktop\maior e menor\obj\Debug\net7.0\maior e menor.csproj.CoreCompileInputs.cache
+C:\Users\47349403801\Desktop\maior e menor\obj\Debug\net7.0\maior e menor.dll
+C:\Users\47349403801\Desktop\maior e menor\obj\Debug\net7.0\refint\maior e menor.dll
+C:\Users\47349403801\Desktop\maior e menor\obj\Debug\net7.0\maior e menor.pdb
+C:\Users\47349403801\Desktop\maior e menor\obj\Debug\net7.0\maior e menor.genruntimeconfig.cache
+C:\Users\47349403801\Desktop\maior e menor\obj\Debug\net7.0\ref\maior e menor.dll

@@ -1,0 +1,15 @@
+C:\Users\47349403801\Desktop\exercícios classe estática\bin\Debug\net7.0\exercícios classe estática.exe
+C:\Users\47349403801\Desktop\exercícios classe estática\bin\Debug\net7.0\exercícios classe estática.deps.json
+C:\Users\47349403801\Desktop\exercícios classe estática\bin\Debug\net7.0\exercícios classe estática.runtimeconfig.json
+C:\Users\47349403801\Desktop\exercícios classe estática\bin\Debug\net7.0\exercícios classe estática.dll
+C:\Users\47349403801\Desktop\exercícios classe estática\bin\Debug\net7.0\exercícios classe estática.pdb
+C:\Users\47349403801\Desktop\exercícios classe estática\obj\Debug\net7.0\exercícios classe estática.csproj.AssemblyReference.cache
+C:\Users\47349403801\Desktop\exercícios classe estática\obj\Debug\net7.0\exercícios classe estática.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47349403801\Desktop\exercícios classe estática\obj\Debug\net7.0\exercícios classe estática.AssemblyInfoInputs.cache
+C:\Users\47349403801\Desktop\exercícios classe estática\obj\Debug\net7.0\exercícios classe estática.AssemblyInfo.cs
+C:\Users\47349403801\Desktop\exercícios classe estática\obj\Debug\net7.0\exercícios classe estática.csproj.CoreCompileInputs.cache
+C:\Users\47349403801\Desktop\exercícios classe estática\obj\Debug\net7.0\exercícios classe estática.dll
+C:\Users\47349403801\Desktop\exercícios classe estática\obj\Debug\net7.0\refint\exercícios classe estática.dll
+C:\Users\47349403801\Desktop\exercícios classe estática\obj\Debug\net7.0\exercícios classe estática.pdb
+C:\Users\47349403801\Desktop\exercícios classe estática\obj\Debug\net7.0\exercícios classe estática.genruntimeconfig.cache
+C:\Users\47349403801\Desktop\exercícios classe estática\obj\Debug\net7.0\ref\exercícios classe estática.dll

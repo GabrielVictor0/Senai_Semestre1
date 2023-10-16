@@ -1,0 +1,15 @@
+C:\Users\47349403801\Desktop\repetição\bin\Debug\net7.0\repetição.exe
+C:\Users\47349403801\Desktop\repetição\bin\Debug\net7.0\repetição.deps.json
+C:\Users\47349403801\Desktop\repetição\bin\Debug\net7.0\repetição.runtimeconfig.json
+C:\Users\47349403801\Desktop\repetição\bin\Debug\net7.0\repetição.dll
+C:\Users\47349403801\Desktop\repetição\bin\Debug\net7.0\repetição.pdb
+C:\Users\47349403801\Desktop\repetição\obj\Debug\net7.0\repetição.csproj.AssemblyReference.cache
+C:\Users\47349403801\Desktop\repetição\obj\Debug\net7.0\repetição.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47349403801\Desktop\repetição\obj\Debug\net7.0\repetição.AssemblyInfoInputs.cache
+C:\Users\47349403801\Desktop\repetição\obj\Debug\net7.0\repetição.AssemblyInfo.cs
+C:\Users\47349403801\Desktop\repetição\obj\Debug\net7.0\repetição.csproj.CoreCompileInputs.cache
+C:\Users\47349403801\Desktop\repetição\obj\Debug\net7.0\repetição.dll
+C:\Users\47349403801\Desktop\repetição\obj\Debug\net7.0\refint\repetição.dll
+C:\Users\47349403801\Desktop\repetição\obj\Debug\net7.0\repetição.pdb
+C:\Users\47349403801\Desktop\repetição\obj\Debug\net7.0\repetição.genruntimeconfig.cache
+C:\Users\47349403801\Desktop\repetição\obj\Debug\net7.0\ref\repetição.dll

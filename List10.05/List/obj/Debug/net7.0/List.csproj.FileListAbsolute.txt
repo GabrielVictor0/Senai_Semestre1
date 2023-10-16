@@ -1,0 +1,15 @@
+C:\Users\47349403801\Desktop\List\bin\Debug\net7.0\List.exe
+C:\Users\47349403801\Desktop\List\bin\Debug\net7.0\List.deps.json
+C:\Users\47349403801\Desktop\List\bin\Debug\net7.0\List.runtimeconfig.json
+C:\Users\47349403801\Desktop\List\bin\Debug\net7.0\List.dll
+C:\Users\47349403801\Desktop\List\bin\Debug\net7.0\List.pdb
+C:\Users\47349403801\Desktop\List\obj\Debug\net7.0\List.csproj.AssemblyReference.cache
+C:\Users\47349403801\Desktop\List\obj\Debug\net7.0\List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47349403801\Desktop\List\obj\Debug\net7.0\List.AssemblyInfoInputs.cache
+C:\Users\47349403801\Desktop\List\obj\Debug\net7.0\List.AssemblyInfo.cs
+C:\Users\47349403801\Desktop\List\obj\Debug\net7.0\List.csproj.CoreCompileInputs.cache
+C:\Users\47349403801\Desktop\List\obj\Debug\net7.0\List.dll
+C:\Users\47349403801\Desktop\List\obj\Debug\net7.0\refint\List.dll
+C:\Users\47349403801\Desktop\List\obj\Debug\net7.0\List.pdb
+C:\Users\47349403801\Desktop\List\obj\Debug\net7.0\List.genruntimeconfig.cache
+C:\Users\47349403801\Desktop\List\obj\Debug\net7.0\ref\List.dll
